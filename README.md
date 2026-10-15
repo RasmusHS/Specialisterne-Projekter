@@ -40,3 +40,4 @@ Tech stack:
 - Blazor
 - Automapper, Fluentvalidation, OneOf, Entity Framework Core
 - xUnit, Moq, Testcontainers
+- Docker
